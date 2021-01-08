@@ -7,7 +7,7 @@ import datetime;
 
 year = 2021
 month = 1
-day = 7
+day = 8
 
 def test_code():
     assert main.gimmieHalf(2, 4) == True, "gimmieHalf(2,4) == True failed"
